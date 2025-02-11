@@ -125,7 +125,13 @@ Fingers State: [0, 0, 0, 0, 0]
 ## License
 This project is open-source and free to use under the **MIT License**.
 
+
+## Contributors
+- **Your Name** - Rudranarayan Sahu
+
 ---
 ### 🔹 **Want Help with Arduino Code?**
 Let me know if you need an Arduino script to **process the received gestures**! 🚀
 
+## Contact
+For any queries or contributions, contact **rudranarayansahu.tech@gmail.com** or visit **[GitHub](https://github.com/rudranarayan-01)**.
