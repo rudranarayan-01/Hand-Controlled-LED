@@ -127,7 +127,7 @@ This project is open-source and free to use under the **MIT License**.
 
 
 ## Contributors
-- **Your Name** - Rudranarayan Sahu
+- **Name** - Rudranarayan Sahu
 
 ---
 ### 🔹 **Want Help with Arduino Code?**
